@@ -1,10 +1,7 @@
 {
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/FASTstakepool/meta/master/icon.png",
-        "url_png_logo": "https://raw.githubusercontent.com/FASTstakepool/meta/master/logo.png",
-        "social": {
-            "github_handle": "FASTstakepool"
-        }
+        "url_png_logo": "https://raw.githubusercontent.com/FASTstakepool/meta/master/logo.png"
     },
     "my-pool-ids": {
         "0": "ce58fef993bf6cb1959ee10dde2a24edd44c64515795514bd6a4fe89"
